@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: snowgame Maven Webapp
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: 042659
+Implementation-Vendor-Id: com.dc
+Build-Jdk: 1.8.0_144
+Implementation-URL: http://www.example.com
+Created-By: Maven Integration for Eclipse
+
