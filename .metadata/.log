@@ -1217,3 +1217,9 @@ org.eclipse.epp.logging.aeri.core.util.Logs$LogTraceException
 	at org.eclipse.epp.logging.aeri.core.util.Logs.log(Logs.java:134)
 	at org.eclipse.epp.internal.logging.aeri.ide.server.mars.ServerProblemsHistory$UpdateIndexJob.run(ServerProblemsHistory.java:319)
 	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+!ENTRY org.eclipse.jface.text 2 0 2019-02-14 16:51:39.068
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.number'
+
+!ENTRY org.eclipse.jface.text 2 0 2019-02-14 16:51:39.070
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.round'
