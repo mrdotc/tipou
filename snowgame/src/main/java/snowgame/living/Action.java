@@ -6,6 +6,17 @@ public class Action {
 
 	private BigDecimal rightLen;
 	private BigDecimal leftLen;
+	private BigDecimal forwardLen;
+	private BigDecimal backLen;
+	
+	private boolean  isStop;
+	
+	public boolean isStop() {
+		return isStop;
+	}
+	public void setStop(boolean isStop) {
+		this.isStop = isStop;
+	}
 	public BigDecimal getRightLen() {
 		return rightLen;
 	}
@@ -30,7 +41,5 @@ public class Action {
 	public void setBackLen(BigDecimal backLen) {
 		this.backLen = backLen;
 	}
-	private BigDecimal forwardLen;
-	private BigDecimal backLen;
-	
+
 }
